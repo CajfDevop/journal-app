@@ -1,6 +1,6 @@
 import { ThemeProvider } from '@emotion/react';
 import { CssBaseline } from '@mui/material';
-import { purpleTheme } from './';
+import { purpleTheme } from '.';
 import PropTypes from 'prop-types';
 
 export const AppTheme = ({ children }) => {
